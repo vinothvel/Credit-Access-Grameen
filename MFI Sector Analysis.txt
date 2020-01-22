@@ -1,0 +1,16 @@
+MFI Keypoints:
+----------------
+1) Being vey low ticket loans, from INR 10000 to 100000 to 250000, majority being around 25000 INR, the companies serve the really needy people of very low income group. 
+2) Surprisingly, the net NPAs of most of the micro finance companies is “Zero”. Yes it is. This may be due to the way the loans are given, the business models (group lending, strict KYC norms, tiered lending etc)
+3) Getting a loan from MFI though a time consuming initially, is much better than securing loans from loan sharks who charge atrociously high interest and are not under RBI’s ambit.
+4) Due to low ticket size, the client bases are huge
+
+
+MFI Risks:
+-------------
+1) Though net NPA levels are low, it is prudent to build in some NPAs into our models as any natural calamity would displace population and their ability to repay. So, geographic risk exists, but this risk can be mitigated by spreading the loan book across geography.
+    e.g for creditaccess grameen q2 2019 karnataka coastal areas loan default due to natural calamity.
+2) Though the book value might increase if NPAs increase alarmingly the RoE may not scale back to pre-dilution levels.
+3) South markets are mostly saturated while North is relatively under penetrated.
+
+
