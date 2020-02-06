@@ -12,5 +12,6 @@ MFI Risks:
     e.g for creditaccess grameen q2 2019 karnataka coastal areas loan default due to natural calamity.
 2) Though the book value might increase if NPAs increase alarmingly the RoE may not scale back to pre-dilution levels.
 3) South markets are mostly saturated while North is relatively under penetrated.
+4) Since the decision to chose the lender is totally on the basis of who provides the lowest interest rate, the risk remains of that of loan yield shrinkage due to an increase in competitive intensity. 
 
 
