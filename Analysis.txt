@@ -3,19 +3,26 @@ Credit Access Grameen Limited
 2018-2019
 ------------------------
 1) About Credit Access Grameen
-	* The core philosophy of CreditAccess Grameen Limited (CA Grameen) lies in enriching and empowering low-income Asian households by providing tailor-made
-	  financial products and solutions.
+	* The core philosophy of CreditAccess Grameen Limited (CA Grameen) lies in enriching and empowering low-income Asian households by providing tailor-made financial products and solutions.
 	* The highlight is the collateral-free loans and other services to women from low-income households with the aim of creating equal opportunities for both the urban and rural poor.
 	* Women tend to use resources more productively, so improving financial access for women may increase their participation in the family and community development.
 	* Nurtured as an NGO at its inception and transitioned into an NBFC in 2007-08.
-	* To improve the quality of product/service delivery and to facilitate better risk management several digital initiatives were introduced 
-	  (Like Tablet given to company represetative to feed the data at the customer spot- Indicates more real time data)
+	* To improve the quality of product/service delivery and to facilitate better risk management several digital initiatives were introduced (Like Tablet given to company represetative to feed the data at the customer spot- Indicates more real time data)
 	* 670 branches across 157 districts in eight States (Karnataka, Maharashtra, Tamil Nadu, Chhattisgarh, Madhya Pradesh, Odisha, Kerala and Goa) and one Union Territory (Puducherry).
 	* CreditAccess Asia NV holds 80.19% shares.
-	* Almost 81% is with promoter. So, the floating stock is really less. This should help in scarcity premium and richer valuations.
+	* Almost 81% is with promoter. So, the floating stock is really less. This should help in scarcity premium and richer valuations. But within next two years they are planning to reduce to 75% as per SEBI regulations.
 	* The moat for the company in my opinion is it is looking to go deeper into rural areas and cover the population while other MFIs are looking to grow covering urban populace.
+	* Around 82% of their borrowers are from rural areas. The reason being that they have perfected the process of lending in the rural areas in the last 1 decades(under the current CEO).
 	* it would have better spreads and lower NPAs as the real rural people are better payers of their EMIs due to peer pressure and strong local/community bondage.
 	* Creditaccess deliberately refused to apply for SFB license to RBi and instead chose to opt for pure play MFI where opp size is huge due to less penetration of credit in rural sector.
+	
+ABOUT CEO
+-------------
+	* Udaya Kumar Hebbar has been associated with the company since 2010 as the CEO. 
+	* He was made the MD and CEO from 2016 onwards.
+	* He is also a director with the self-regulatory organization(SRO) which oversees the operations of MFIs such as MFIN & AKMI. 
+	* Before joining CAGL in 2010, he had 25 years of banking experience with the last being with Barclays Banks Plc as Head, Commercial & Payments Operations.
+
 
 2) Financial Products
 	* GROUP LENDING
@@ -112,6 +119,7 @@ Credit Access Grameen Limited
 		* Each branch has been planned to cover maximum number of villages located within a radius up to 30 Kms from each branch office.
 	* As of March 31, 2019, the Company was ranked in the 2nd position among the 23 large MFIs (3rd Position during FY 2017-18).
 	* Lending to rural people not to bigger corporates hence NPA recovery is possible.
+	* They follows a weekly center meeting as compared to fortnightly/monthly meeting culture by most of its competitors. The higher level of customer engagement has helped in better asset quality. 
 
 10) Company Weakness
 	* Most of the loans are unsecured. No collateral.
@@ -137,3 +145,32 @@ Credit Access Grameen Limited
 	* Helps in portfolio diversification at an overall level, lowers Karnataka share from ~ 51% to ~ 41%
 	* Scales up presence in existing markets and provides access to newer markets like Bihar, Odisha etc
 	* Entered in Rajastan Gujarat, Bihar & UP in Q2 GY20.
+	
+13) Strategy For loan disbursement
+	* The first loan given out by CreditAccess Grameen is always an IGL(Income Generation Loans) loan.
+	* For retail finance, since it lends only to the existing customers who have sufficient credit history with CAGL, there is hardly any customer acquisition cost, hence a higher margin. 
+	* But retail finance for an MFI can be only 15% of the total balance sheet size(5% now for CAGL).
+	* Around 80-85% of lending is towards IGL, 5% is towards retail finance. IGL is used primarily for small trading business, animal husbandry, etc
+	* 40-45% of employees are from the family of customers. They are placed at least around 100Kms away from their native villages.
+	* This strategy helps not only the employees to stick but the likelihood of their families to continue with CAGL increases. It is important in a industry where the average attrition rate is around 25%.
+	
+14) CAGL Risk Control
+	* According to RBI, stages are classified as:
+Stage I portfolio (PAR 0+): Loans for which the required repayments are between 0 to 30 days past due(DPD)
+Stage II portfolio (PAR 30-90): Repayments due between 30 to 90 (DPD)
+Stage III portfolio (PAR 90+): Loans for which the required repayments are more than 90 (DPD). It becomes NPA.
+
+Now since Creaditaccess Grameen is growing quite fast, it needs to create a process that automatically checks things before they get too bad. I think that’s why they have reclassified the Stages much more conservatively.
+
+	* For CreditAccess, 
+Stage I: Repayment due between 0-15 days
+Stage II: Repayment due between 16-60 days
+Stage III: Repayment due for more than 60 days. The loan becomes NPA.
+	* Because of the change in the categorization of different stages of repayment due, it will increase the rigor of follow-ups.
+	* In addition,  Every branch is audited on an average of 6 times a year. 
+	* CAGL works with a credit bureau like Highmarks, Equifax & Cibil to check the credit history of customers. Every single loan gets verified by the credit bureau. 
+	* No loan officer can handle a single customer for more than 1 year.
+	
+
+NOTES: 
+	* 90% of expansion takes place in H1 of any fiscal year. So cost will be high in Q1 and Q2 compared to Q3 and Very low in Q4.
